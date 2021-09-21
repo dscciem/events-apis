@@ -4,7 +4,8 @@
   "description": "Restful event APIs for gdsc-ciem-app",
   "main": "server.js",
   "scripts": {
-    "devStart": "nodemon server.js"
+    "devStart": "nodemon server.js",
+    "start": "node server.js"
   },
   "author": "avinash-ranjan",
   "license": "ISC",
